@@ -1,0 +1,19 @@
+# Build output:
+lib/
+config.json
+tsconfig.tsbuildinfo
+
+# Package manager:
+node_modules/
+npm-debug.log
+package-lock.json
+yarn-error.log
+
+# Editors:
+.DS_Store
+.idea/
+.vscode/
+
+# Test results:
+.nyc_output
+coverage/
