@@ -1,0 +1,17 @@
+{
+  "name": "edge-other-plugins",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A place for special Edge plugins which do not fall into a category for standard plugin types.",
+  "repository": "git@github.com:EdgeApp/edge-other-plugins.git",
+  "license": "MIT",
+  "author": "Edge <info@edge.app>",
+  "main": "lib/index.js",
+  "types": "./lib/index.d.ts",
+  "files": [
+    "lib/*",
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {}
+}
