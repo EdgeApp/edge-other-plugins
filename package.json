@@ -31,7 +31,7 @@
     "*.{js,ts,json}": "eslint"
   },
   "dependencies": {
-    "edge-core-js": "^0.19.15"
+    "edge-core-js": "https://github.com/EdgeApp/edge-core-js.git#edcf18af521d9325ce8ad8f76d358b7eafdb5e52"
   },
   "devDependencies": {
     "@types/chai": "^4.3.1",

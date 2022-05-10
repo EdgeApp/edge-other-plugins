@@ -1277,10 +1277,9 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
     safer-buffer "^2.1.0"
 
-edge-core-js@^0.19.15:
+"edge-core-js@https://github.com/EdgeApp/edge-core-js.git#edcf18af521d9325ce8ad8f76d358b7eafdb5e52":
   version "0.19.15"
-  resolved "https://registry.yarnpkg.com/edge-core-js/-/edge-core-js-0.19.15.tgz#2e8762404a4bc64001e954bc0032869490ace884"
-  integrity sha512-wTp4zAwVBqwjc2WbgAG6vob/cpx9fDQRgoTdFv8tbnEfRsbH0u4osMrqGhjWN9MwYiKRYy1yRATkjS3hiQrdDg==
+  resolved "https://github.com/EdgeApp/edge-core-js.git#edcf18af521d9325ce8ad8f76d358b7eafdb5e52"
   dependencies:
     aes-js "^3.1.0"
     base-x "^1.0.4"
