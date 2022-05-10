@@ -2,6 +2,8 @@ import { EdgeCorePlugins } from 'edge-core-js/types'
 
 import { makeDemoPlugin } from './demo-plugins/demo'
 
+export { getDemoPlugin } from './demo-plugins/demo'
+
 const plugins: EdgeCorePlugins = {
   demo: makeDemoPlugin
 }
